@@ -1,0 +1,41 @@
+{
+    "META" : {
+        "MIR_CLF33A":{
+            "mode":"LAND",
+            "title":"Soil Moisture",
+            "copyright" : "Copyright IFREMER, ESA,...",
+            "param_id":"Soil_Moisture",
+            "inc":null,
+            "nbColors":20,
+            "vmin":0.0,
+            "vmax":0.5,
+            "size":[1280,720]
+        },
+        "MIR_CSF3AA":{
+            "mode":"SEA",
+            "title":"Mean Sea Surface Salinity",
+            "copyright" : "Copyright IFREMER, ESA,...",
+            "param_id":"Mean_Sea_Surface_Salinity",
+            "inc":null,
+            "nbColors":20,
+            "vmin":32.0,
+            "vmax":38.0,
+            "size":[1280,720]
+        }
+    },
+
+    "MODES" : {
+        "SEA":{
+            "lon_0":-50.0,
+            "mapargs":{"projection":"moll", "resolution":"l", "lon_0":-50.0, "ellps":"WGS84", "anchor":"S"},
+            "colormap":"jet",
+            "fill_continents":true
+        },
+        "LAND":{
+            "lon_0":0.0,
+            "mapargs":{},
+            "colormap":"hot",
+            "fill_continents":false
+        }
+    }
+}

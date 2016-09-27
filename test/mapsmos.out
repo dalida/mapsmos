@@ -1,0 +1,179 @@
+Nettoyage des cartes
+diss_path : /home/catds_diss/data/cpdc/vqual/current/MAP
+LOOP through MAP tree
+ftp_dir : /home/catds_diss/data/cpdc/vqual/current/FTP/SM/GRIDDED/L3SM/OPER/MIR_CLF33A/2016/08
+file to match : SM_OPER_MIR_CLF33A_20160801T000000_20160803T235959_300_001_7
+ftp_dir : /home/catds_diss/data/cpdc/vqual/current/FTP/SM/GRIDDED/L3SM/OPER/MIR_CLF31A/2016/214
+file to match : SM_OPER_MIR_CLF31A_20160801T000000_20160801T235959_300_001_7
+ftp_dir : /home/catds_diss/data/cpdc/vqual/current/FTP/SM/GRIDDED/L3SM/OPER/MIR_CLF3EA/2016/08
+file to match : SM_OPER_MIR_CLF3EA_20160801T000000_20160803T235959_300_001_7
+ftp_dir : /home/catds_diss/data/cpdc/vqual/current/FTP/OS/GRIDDED/L3OS/OPER/MIR_CSF3AA/2016/08
+file to match : SM_OPER_MIR_CSF3AA_20160801T000000_20160831T235959_300_001_7
+ftp_dir : /home/catds_diss/data/cpdc/vqual/current/FTP/OS/GRIDDED/L3OS/OPER/MIR_CSF3AD/2016/08
+file to match : SM_OPER_MIR_CSF3AD_20160801T000000_20160831T235959_300_001_7
+ftp_dir : /home/catds_diss/data/cpdc/vqual/current/FTP/OS/GRIDDED/L3OS/OPER/MIR_CSF2PA/2016/214
+file to match : SM_OPER_MIR_CSF2PA_20160801T000000_20160801T235959_300_001_7
+ftp_dir : /home/catds_diss/data/cpdc/vqual/current/FTP/SMOS/GRIDDED/L3/OPER/MIR_CDF3RA/2016/214
+file to match : SM_OPER_MIR_CDF3RA_20160801T000000_20160830T235959_310_001_7
+ftp_dir : /home/catds_diss/data/cpdc/vqual/current/FTP/SMOS/GRIDDED/L3/OPER/MIR_CDF3TA/2016/214
+file to match : SM_OPER_MIR_CDF3TA_20160801T000000_20160801T235959_310_001_7
+Generation des cartes
+root : /home/catds_diss/data/cpdc/vqual/current/FTP
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/SMOS
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/SMOS/GRIDDED
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/SMOS/GRIDDED/L3
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/SMOS/GRIDDED/L3/OPER
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/SMOS/GRIDDED/L3/OPER/MIR_CDF3RA
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/SMOS/GRIDDED/L3/OPER/MIR_CDF3RA/2016
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/SMOS/GRIDDED/L3/OPER/MIR_CDF3RA/2016/214
+filename : SM_OPER_MIR_CDF3RA_20160801T000000_20160830T235959_310_001_7.tgz
+map_dir : /home/catds_diss/data/cpdc/vqual/current/MAP/SMOS/GRIDDED/L3/OPER/MIR_CDF3RA/2016/214
+file_to_match : SM_OPER_MIR_CDF3RA_20160801T000000_20160830T235959_310_001_7
+La carte associee au produit SM_OPER_MIR_CDF3RA_20160801T000000_20160830T235959_310_001_7.tgz existe deja
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/SMOS/GRIDDED/L3/OPER/MIR_CDF3RD
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/SMOS/GRIDDED/L3/OPER/MIR_CDF3RD/2016
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/SMOS/GRIDDED/L3/OPER/MIR_CDF3RD/2016/214
+filename : SM_OPER_MIR_CDF3RD_20160801T000000_20160830T235959_310_001_7.tgz
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/SMOS/GRIDDED/L3/OPER/MIR_CDF3TA
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/SMOS/GRIDDED/L3/OPER/MIR_CDF3TA/2016
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/SMOS/GRIDDED/L3/OPER/MIR_CDF3TA/2016/214
+filename : SM_OPER_MIR_CDF3TA_20160801T000000_20160801T235959_310_001_7.tgz
+map_dir : /home/catds_diss/data/cpdc/vqual/current/MAP/SMOS/GRIDDED/L3/OPER/MIR_CDF3TA/2016/214
+file_to_match : SM_OPER_MIR_CDF3TA_20160801T000000_20160801T235959_310_001_7
+La carte associee au produit SM_OPER_MIR_CDF3TA_20160801T000000_20160801T235959_310_001_7.tgz existe deja
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/SMOS/GRIDDED/L3/OPER/MIR_CDF3TD
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/SMOS/GRIDDED/L3/OPER/MIR_CDF3TD/2016
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/SMOS/GRIDDED/L3/OPER/MIR_CDF3TD/2016/214
+filename : SM_OPER_MIR_CDF3TD_20160801T000000_20160801T235959_310_001_7.tgz
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/SM
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/SM/GRIDDED
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/SM/GRIDDED/L3SM
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/SM/GRIDDED/L3SM/OPER
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/SM/GRIDDED/L3SM/OPER/MIR_CLF33A
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/SM/GRIDDED/L3SM/OPER/MIR_CLF33A/2016
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/SM/GRIDDED/L3SM/OPER/MIR_CLF33A/2016/08
+filename : SM_OPER_MIR_CLF33A_20160801T000000_20160803T235959_300_001_7.tgz
+map_dir : /home/catds_diss/data/cpdc/vqual/current/MAP/SM/GRIDDED/L3SM/OPER/MIR_CLF33A/2016/08
+file_to_match : SM_OPER_MIR_CLF33A_20160801T000000_20160803T235959_300_001_7
+La carte associee au produit SM_OPER_MIR_CLF33A_20160801T000000_20160803T235959_300_001_7.tgz existe deja
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/SM/GRIDDED/L3SM/OPER/MIR_CLF31A
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/SM/GRIDDED/L3SM/OPER/MIR_CLF31A/2016
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/SM/GRIDDED/L3SM/OPER/MIR_CLF31A/2016/214
+filename : SM_OPER_MIR_CLF31A_20160801T000000_20160801T235959_300_001_7.tgz
+map_dir : /home/catds_diss/data/cpdc/vqual/current/MAP/SM/GRIDDED/L3SM/OPER/MIR_CLF31A/2016/214
+file_to_match : SM_OPER_MIR_CLF31A_20160801T000000_20160801T235959_300_001_7
+La carte associee au produit SM_OPER_MIR_CLF31A_20160801T000000_20160801T235959_300_001_7.tgz existe deja
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/SM/GRIDDED/L3SM/OPER/MIR_CLF31D
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/SM/GRIDDED/L3SM/OPER/MIR_CLF31D/2016
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/SM/GRIDDED/L3SM/OPER/MIR_CLF31D/2016/214
+filename : SM_OPER_MIR_CLF31D_20160801T000000_20160801T235959_300_001_7.tgz
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/SM/GRIDDED/L3SM/OPER/MIR_CLF33D
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/SM/GRIDDED/L3SM/OPER/MIR_CLF33D/2016
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/SM/GRIDDED/L3SM/OPER/MIR_CLF33D/2016/08
+filename : SM_OPER_MIR_CLF33D_20160801T000000_20160803T235959_300_001_7.tgz
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/SM/GRIDDED/L3SM/OPER/MIR_CLF3ED
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/SM/GRIDDED/L3SM/OPER/MIR_CLF3ED/2016
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/SM/GRIDDED/L3SM/OPER/MIR_CLF3ED/2016/08
+filename : SM_OPER_MIR_CLF3ED_20160801T000000_20160803T235959_300_001_7.tgz
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/SM/GRIDDED/L3SM/OPER/MIR_CLF3EA
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/SM/GRIDDED/L3SM/OPER/MIR_CLF3EA/2016
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/SM/GRIDDED/L3SM/OPER/MIR_CLF3EA/2016/08
+filename : SM_OPER_MIR_CLF3EA_20160801T000000_20160803T235959_300_001_7.tgz
+map_dir : /home/catds_diss/data/cpdc/vqual/current/MAP/SM/GRIDDED/L3SM/OPER/MIR_CLF3EA/2016/08
+file_to_match : SM_OPER_MIR_CLF3EA_20160801T000000_20160803T235959_300_001_7
+La carte associee au produit SM_OPER_MIR_CLF3EA_20160801T000000_20160803T235959_300_001_7.tgz existe deja
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/SM/GRIDDED/L3SM/OPER/MIR_CLF3DD
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/SM/GRIDDED/L3SM/OPER/MIR_CLF3DD/2016
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/SM/GRIDDED/L3SM/OPER/MIR_CLF3DD/2016/08
+filename : SM_OPER_MIR_CLF3DD_20160801T000000_20160810T235959_300_001_7.tgz
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/SM/GRIDDED/L3SM/OPER/MIR_CLF3DA
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/SM/GRIDDED/L3SM/OPER/MIR_CLF3DA/2016
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/SM/GRIDDED/L3SM/OPER/MIR_CLF3DA/2016/08
+filename : SM_OPER_MIR_CLF3DA_20160801T000000_20160810T235959_300_001_7.tgz
+map_dir : /home/catds_diss/data/cpdc/vqual/current/MAP/SM/GRIDDED/L3SM/OPER/MIR_CLF3DA/2016/08
+file_to_match : SM_OPER_MIR_CLF3DA_20160801T000000_20160810T235959_300_001_7
+map_file is None...
+file to process...
+echec de la generation de la carte a partir du produit SM_OPER_MIR_CLF3DA_20160801T000000_20160810T235959_300_001_7.DBL.nc avec le code erreur 1-d or 2-d data required
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/SM/GRIDDED/L3SM/OPER/MIR_CLF3MA
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/SM/GRIDDED/L3SM/OPER/MIR_CLF3MA/2016
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/SM/GRIDDED/L3SM/OPER/MIR_CLF3MA/2016/08
+filename : SM_OPER_MIR_CLF3MA_20160801T000000_20160831T235959_300_001_7.tgz
+map_dir : /home/catds_diss/data/cpdc/vqual/current/MAP/SM/GRIDDED/L3SM/OPER/MIR_CLF3MA/2016/08
+map_file is None...
+file to process...
+succes de la generation de la carte a partir du produit SM_OPER_MIR_CLF3MA_20160801T000000_20160831T235959_300_001_7.DBL.nc
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/SM/GRIDDED/L3SM/OPER/MIR_CLF3MD
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/SM/GRIDDED/L3SM/OPER/MIR_CLF3MD/2016
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/SM/GRIDDED/L3SM/OPER/MIR_CLF3MD/2016/08
+filename : SM_OPER_MIR_CLF3MD_20160801T000000_20160831T235959_300_001_7.tgz
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/OS
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/OS/GRIDDED
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/OS/GRIDDED/L3OS
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/OS/GRIDDED/L3OS/OPER
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/OS/GRIDDED/L3OS/OPER/MIR_CSF2PA
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/OS/GRIDDED/L3OS/OPER/MIR_CSF2PA/2016
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/OS/GRIDDED/L3OS/OPER/MIR_CSF2PA/2016/214
+filename : SM_OPER_MIR_CSF2PA_20160801T000000_20160801T235959_300_001_7.tgz
+map_dir : /home/catds_diss/data/cpdc/vqual/current/MAP/OS/GRIDDED/L3OS/OPER/MIR_CSF2PA/2016/214
+file_to_match : SM_OPER_MIR_CSF2PA_20160801T000000_20160801T235959_300_001_7
+La carte associee au produit SM_OPER_MIR_CSF2PA_20160801T000000_20160801T235959_300_001_7.tgz existe deja
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/OS/GRIDDED/L3OS/OPER/MIR_CSF2PD
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/OS/GRIDDED/L3OS/OPER/MIR_CSF2PD/2016
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/OS/GRIDDED/L3OS/OPER/MIR_CSF2PD/2016/214
+filename : SM_OPER_MIR_CSF2PD_20160801T000000_20160801T235959_300_001_7.tgz
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/OS/GRIDDED/L3OS/OPER/MIR_CSF3DD
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/OS/GRIDDED/L3OS/OPER/MIR_CSF3DD/2016
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/OS/GRIDDED/L3OS/OPER/MIR_CSF3DD/2016/08
+filename : SM_OPER_MIR_CSF3DD_20160801T000000_20160831T235959_300_001_7.tgz
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/OS/GRIDDED/L3OS/OPER/MIR_CSF3BA
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/OS/GRIDDED/L3OS/OPER/MIR_CSF3BA/2016
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/OS/GRIDDED/L3OS/OPER/MIR_CSF3BA/2016/08
+filename : SM_OPER_MIR_CSF3BA_20160801T000000_20160831T235959_300_001_7.tgz
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/OS/GRIDDED/L3OS/OPER/MIR_CSF3B_
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/OS/GRIDDED/L3OS/OPER/MIR_CSF3B_/2016
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/OS/GRIDDED/L3OS/OPER/MIR_CSF3B_/2016/08
+filename : SM_OPER_MIR_CSF3B__20160801T000000_20160831T235959_300_001_7.tgz
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/OS/GRIDDED/L3OS/OPER/MIR_CSF3CD
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/OS/GRIDDED/L3OS/OPER/MIR_CSF3CD/2016
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/OS/GRIDDED/L3OS/OPER/MIR_CSF3CD/2016/08
+filename : SM_OPER_MIR_CSF3CD_20160801T000000_20160831T235959_300_001_7.tgz
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/OS/GRIDDED/L3OS/OPER/MIR_CSF3DA
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/OS/GRIDDED/L3OS/OPER/MIR_CSF3DA/2016
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/OS/GRIDDED/L3OS/OPER/MIR_CSF3DA/2016/08
+filename : SM_OPER_MIR_CSF3DA_20160801T000000_20160831T235959_300_001_7.tgz
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/OS/GRIDDED/L3OS/OPER/MIR_CSF3A_
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/OS/GRIDDED/L3OS/OPER/MIR_CSF3A_/2016
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/OS/GRIDDED/L3OS/OPER/MIR_CSF3A_/2016/08
+filename : SM_OPER_MIR_CSF3A__20160801T000000_20160831T235959_300_001_7.tgz
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/OS/GRIDDED/L3OS/OPER/MIR_CSF3AA
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/OS/GRIDDED/L3OS/OPER/MIR_CSF3AA/2016
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/OS/GRIDDED/L3OS/OPER/MIR_CSF3AA/2016/08
+filename : SM_OPER_MIR_CSF3AA_20160801T000000_20160831T235959_300_001_7.tgz
+map_dir : /home/catds_diss/data/cpdc/vqual/current/MAP/OS/GRIDDED/L3OS/OPER/MIR_CSF3AA/2016/08
+file_to_match : SM_OPER_MIR_CSF3AA_20160801T000000_20160831T235959_300_001_7
+La carte associee au produit SM_OPER_MIR_CSF3AA_20160801T000000_20160831T235959_300_001_7.tgz existe deja
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/OS/GRIDDED/L3OS/OPER/MIR_CSF3D_
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/OS/GRIDDED/L3OS/OPER/MIR_CSF3D_/2016
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/OS/GRIDDED/L3OS/OPER/MIR_CSF3D_/2016/08
+filename : SM_OPER_MIR_CSF3D__20160801T000000_20160831T235959_300_001_7.tgz
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/OS/GRIDDED/L3OS/OPER/MIR_CSF3BD
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/OS/GRIDDED/L3OS/OPER/MIR_CSF3BD/2016
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/OS/GRIDDED/L3OS/OPER/MIR_CSF3BD/2016/08
+filename : SM_OPER_MIR_CSF3BD_20160801T000000_20160831T235959_300_001_7.tgz
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/OS/GRIDDED/L3OS/OPER/MIR_CSF3C_
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/OS/GRIDDED/L3OS/OPER/MIR_CSF3C_/2016
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/OS/GRIDDED/L3OS/OPER/MIR_CSF3C_/2016/08
+filename : SM_OPER_MIR_CSF3C__20160801T000000_20160831T235959_300_001_7.tgz
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/OS/GRIDDED/L3OS/OPER/MIR_CSF3CA
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/OS/GRIDDED/L3OS/OPER/MIR_CSF3CA/2016
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/OS/GRIDDED/L3OS/OPER/MIR_CSF3CA/2016/08
+filename : SM_OPER_MIR_CSF3CA_20160801T000000_20160831T235959_300_001_7.tgz
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/OS/GRIDDED/L3OS/OPER/MIR_CSF3AD
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/OS/GRIDDED/L3OS/OPER/MIR_CSF3AD/2016
+root : /home/catds_diss/data/cpdc/vqual/current/FTP/OS/GRIDDED/L3OS/OPER/MIR_CSF3AD/2016/08
+filename : SM_OPER_MIR_CSF3AD_20160801T000000_20160831T235959_300_001_7.tgz
+map_dir : /home/catds_diss/data/cpdc/vqual/current/MAP/OS/GRIDDED/L3OS/OPER/MIR_CSF3AD/2016/08
+file_to_match : SM_OPER_MIR_CSF3AD_20160801T000000_20160831T235959_300_001_7
+La carte associee au produit SM_OPER_MIR_CSF3AD_20160801T000000_20160831T235959_300_001_7.tgz existe deja
+Fin de la generation des cartes

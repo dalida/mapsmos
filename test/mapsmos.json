@@ -1,0 +1,140 @@
+{
+    "META" : {
+        "MIR_CLF33A":{
+            "mode":"LAND",
+            "title":"Soil Moisture",
+            "copyright" : "Copyright Ifremer, ESA,...",
+            "param_id":"Soil_Moisture",
+            "inc":null,
+            "nbColors":20,
+            "vmin":0.0,
+            "vmax":0.5,
+            "size":[1280,720]
+        },
+        "MIR_CSF3AA":{
+            "mode":"SEA",
+            "title":"Mean Sea Surface Salinity",
+            "copyright" : "Copyright Ifremer, ESA,...",
+            "param_id":"Mean_Sea_Surface_Salinity",
+            "inc":null,
+            "nbColors":20,
+            "vmin":32.0,
+            "vmax":38.0,
+            "size":[1280,720]
+        },
+        "MIR_CSF3AD":{
+            "mode":"SEA",
+            "title":"Mean Sea Surface Salinity",
+            "copyright" : "Copyright Ifremer, ESA,...",
+            "param_id":"Mean_Sea_Surface_Salinity",
+            "inc":null,
+            "nbColors":20,
+            "vmin":32.0,
+            "vmax":38.0,
+            "size":[1280,720]
+        },
+        "MIR_CLF31A":{
+            "mode":"LAND",
+            "title":"Soil Moisture",
+            "copyright" : "Copyright Ifremer, ESA,...",
+            "param_id":"Soil_Moisture",
+            "inc":null,
+            "nbColors":20,
+            "vmin":0.0,
+            "vmax":0.5,
+            "size":[1280,720]
+        },
+        "MIR_CDF3RA":{
+            "mode":"LAND",
+            "title":"Probability RFI",
+            "copyright" : "Copyright Ifremer, ESA,...",
+            "param_id":"Prob_RFI",
+            "inc":10,
+            "nbColors":20,
+            "vmin":0.0,
+            "vmax":0.5,
+            "size":[1280,720]
+        },
+        "MIR_CDF3RA":{
+            "mode":"LAND",
+            "title":"RFI Contamination Probability ",
+            "copyright" : "Copyright Ifremer, ESA,...",
+            "param_id":"Prob_RFI",
+            "inc":10,
+            "nbColors":20,
+            "vmin":0.0,
+            "vmax":0.5,
+            "size":[1280,720]
+        },
+        "MIR_CDF3TA":{
+            "mode":"LAND",
+            "title":"Brightness Temperature H-pol",
+            "copyright" : "Copyright Ifremer, ESA,...",
+            "param_id":"BT_H",
+            "inc":10,
+            "nbColors":20,
+            "vmin":0.0,
+            "vmax":0.5,
+            "size":[1280,720]
+        },
+        "MIR_CSF2PA":{
+            "mode":"SEA",
+            "title":"Sea Surface Salinity",
+            "copyright" : "Copyright Ifremer, ESA,...",
+            "param_id":"Sea_Surface_Salinity_Model1_Value",
+            "inc":null,
+            "nbColors":20,
+            "vmin":32.0,
+            "vmax":38.0,
+            "size":[1280,720]
+        },
+        "MIR_CLF3EA":{
+            "mode":"LAND",
+            "title":"Dielectric Constant from MD",
+            "copyright" : "Copyright Ifremer, ESA,...",
+            "param_id":"Dielect_Const_Module",
+            "inc":null,
+            "nbColors":20,
+            "vmin":0.0,
+            "vmax":0.5,
+            "size":[1280,720]
+        },
+        "MIR_CLF3DA":{
+            "mode":"LAND",
+            "title":"Retrieved Soil Moisture Value (med, min, max)",
+            "copyright" : "Copyright Ifremer, ESA,...",
+            "param_id":"Soil_Moisture",
+            "inc":null,
+            "nbColors":20,
+            "vmin":0.0,
+            "vmax":0.5,
+            "size":[1280,720]
+        },
+        "MIR_CLF3MA":{
+            "mode":"LAND",
+            "title":"Retrieved Soil Moisture Value",
+            "copyright" : "Copyright Ifremer, ESA,...",
+            "param_id":"Soil_Moisture",
+            "inc":null,
+            "nbColors":20,
+            "vmin":0.0,
+            "vmax":0.5,
+            "size":[1280,720]
+        }
+    },
+
+    "MODES" : {
+        "SEA":{
+            "lon_0":-50.0,
+            "mapargs":{"projection":"moll", "resolution":"l", "lon_0":-50.0, "ellps":"WGS84", "anchor":"S"},
+            "colormap":"jet",
+            "fill_continents":true
+        },
+        "LAND":{
+            "lon_0":0.0,
+            "mapargs":{},
+            "colormap":"hot",
+            "fill_continents":false
+        }
+    }
+}
